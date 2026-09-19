@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-19c",
+  "updated": "2026-09-19d",
   "minecraft": "26.1.2",
   "message": "Dalam TLauncher pilih Fabric 26.1.2. Loader mestilah 0.19.5 (bukan 0.19.2). Kemudian Enter the game.",
   "remove": [
@@ -25,6 +25,9 @@
     { "file": "mcw-windows-2.4.2-mc26.1fabric.jar", "url": "https://cdn.modrinth.com/data/C7I0BCni/versions/YAGJmlsb/mcw-windows-2.4.2-mc26.1fabric.jar", "family": "mcw-windows*.jar" },
     { "file": "mcw-roofs-2.3.2-mc26.1fabric.jar", "url": "https://cdn.modrinth.com/data/B8jaH3P1/versions/nOoMKDXX/mcw-roofs-2.3.2-mc26.1fabric.jar", "family": "mcw-roofs*.jar" },
     { "file": "mcw-paths-1.1.1-mc26.1fabric.jar", "url": "https://cdn.modrinth.com/data/VRLhWB91/versions/Lhx6kseh/mcw-paths-1.1.1-mc26.1fabric.jar", "family": "mcw-paths*.jar" },
+    { "file": "mcw-lights-1.1.5-mc26.1fabric.jar", "url": "https://cdn.modrinth.com/data/w4an97C2/versions/3pQc7GPB/mcw-lights-1.1.5-mc26.1fabric.jar", "family": "mcw-lights*.jar" },
+    { "file": "mcw-fences-1.2.1-mc26.1fabric.jar", "url": "https://cdn.modrinth.com/data/GmwLse2I/versions/oWA108EY/mcw-fences-1.2.1-mc26.1fabric.jar", "family": "mcw-fences*.jar" },
+    { "file": "chalkboard-26.5.15.jar", "url": "https://cdn.modrinth.com/data/Azgc1ZEh/versions/XbI0m8jx/chalkboard-26.5.15.jar", "family": "chalkboard*.jar" },
     { "file": "FarmersDelight-26.1-3.6.26+refabricated.jar", "url": "https://cdn.modrinth.com/data/7vxePowz/versions/WgtdZQuc/FarmersDelight-26.1-3.6.26%2Brefabricated.jar", "family": "*armersDelight*.jar" },
     { "file": "waystones-fabric-26.1.2-26.1.2.16.jar", "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/YgvCsKWn/waystones-fabric-26.1.2-26.1.2.16.jar", "family": "waystones*.jar" },
     { "file": "balm-fabric-26.1.2-26.1.2.14.jar", "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/UWcOVkf7/balm-fabric-26.1.2-26.1.2.14.jar", "family": "balm-fabric*.jar" },
