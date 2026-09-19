@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-19",
+  "updated": "2026-09-19b",
   "minecraft": "26.1.2",
   "message": "Dalam TLauncher pilih Fabric 26.1.2, kemudian Enter the game.",
   "remove": [
@@ -25,6 +25,9 @@
     { "file": "mcw-windows-2.4.2-mc26.1fabric.jar", "url": "https://cdn.modrinth.com/data/C7I0BCni/versions/YAGJmlsb/mcw-windows-2.4.2-mc26.1fabric.jar", "family": "mcw-windows*.jar" },
     { "file": "mcw-roofs-2.3.2-mc26.1fabric.jar", "url": "https://cdn.modrinth.com/data/B8jaH3P1/versions/nOoMKDXX/mcw-roofs-2.3.2-mc26.1fabric.jar", "family": "mcw-roofs*.jar" },
     { "file": "mcw-paths-1.1.1-mc26.1fabric.jar", "url": "https://cdn.modrinth.com/data/VRLhWB91/versions/Lhx6kseh/mcw-paths-1.1.1-mc26.1fabric.jar", "family": "mcw-paths*.jar" },
-    { "file": "FarmersDelight-26.1-3.6.26+refabricated.jar", "url": "https://cdn.modrinth.com/data/7vxePowz/versions/WgtdZQuc/FarmersDelight-26.1-3.6.26%2Brefabricated.jar", "family": "*armersDelight*.jar" }
+    { "file": "FarmersDelight-26.1-3.6.26+refabricated.jar", "url": "https://cdn.modrinth.com/data/7vxePowz/versions/WgtdZQuc/FarmersDelight-26.1-3.6.26%2Brefabricated.jar", "family": "*armersDelight*.jar" },
+    { "file": "waystones-fabric-26.1.2-26.1.2.16.jar", "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/YgvCsKWn/waystones-fabric-26.1.2-26.1.2.16.jar", "family": "waystones*.jar" },
+    { "file": "balm-fabric-26.1.2-26.1.2.14.jar", "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/UWcOVkf7/balm-fabric-26.1.2-26.1.2.14.jar", "family": "balm-fabric*.jar" },
+    { "file": "shogi-fabric-26.1.2-26.1.2.8.jar", "url": "https://cdn.modrinth.com/data/bi4iCmsw/versions/JOZQqMOr/shogi-fabric-26.1.2-26.1.2.8.jar", "family": "shogi-fabric*.jar" }
   ]
 }
