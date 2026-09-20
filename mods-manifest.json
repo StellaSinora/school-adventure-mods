@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-19d",
+  "updated": "2026-09-20a",
   "minecraft": "26.1.2",
   "message": "Dalam TLauncher pilih Fabric 26.1.2. Loader mestilah 0.19.5 (bukan 0.19.2). Kemudian Enter the game.",
   "remove": [
@@ -31,6 +31,8 @@
     { "file": "FarmersDelight-26.1-3.6.26+refabricated.jar", "url": "https://cdn.modrinth.com/data/7vxePowz/versions/WgtdZQuc/FarmersDelight-26.1-3.6.26%2Brefabricated.jar", "family": "*armersDelight*.jar" },
     { "file": "waystones-fabric-26.1.2-26.1.2.16.jar", "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/YgvCsKWn/waystones-fabric-26.1.2-26.1.2.16.jar", "family": "waystones*.jar" },
     { "file": "balm-fabric-26.1.2-26.1.2.14.jar", "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/UWcOVkf7/balm-fabric-26.1.2-26.1.2.14.jar", "family": "balm-fabric*.jar" },
-    { "file": "shogi-fabric-26.1.2-26.1.2.8.jar", "url": "https://cdn.modrinth.com/data/bi4iCmsw/versions/JOZQqMOr/shogi-fabric-26.1.2-26.1.2.8.jar", "family": "shogi-fabric*.jar" }
+    { "file": "shogi-fabric-26.1.2-26.1.2.8.jar", "url": "https://cdn.modrinth.com/data/bi4iCmsw/versions/JOZQqMOr/shogi-fabric-26.1.2-26.1.2.8.jar", "family": "shogi-fabric*.jar" },
+    { "file": "ForgeConfigAPIPort-v26.1.5-mc26.1.x-Fabric.jar", "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/jUe0ucoE/ForgeConfigAPIPort-v26.1.5-mc26.1.x-Fabric.jar", "family": "ForgeConfigAPIPort*.jar" },
+    { "file": "travelersbackpack-fabric-26.1.2-11.2.10.jar", "url": "https://cdn.modrinth.com/data/rlloIFEV/versions/Ah1lkxJY/travelersbackpack-fabric-26.1.2-11.2.10.jar", "family": "travelersbackpack*.jar" }
   ]
 }
