@@ -1,13 +1,12 @@
 {
   "version": 1,
-  "updated": "2026-09-20c",
+  "updated": "2026-09-20d",
   "minecraft": "26.1.2",
   "message": "Tutup TLauncher. Kalau nampak Fabric Loader 0.19.2, jalankan Pasang-Mods-Sekolah.bat VERSI BARU (bukan bat lama). Pilih Fabric 26.1.2, kemudian Enter the game.",
   "remove": [
     "YungsBetterDungeons*.jar",
     "YungsApi*.jar",
     "YungsBetter*.jar",
-    "cloth-config*.jar",
     "*DungeonsArise*.jar",
     "When*Dungeons*.jar",
     "betterdungeons*.jar"
@@ -36,6 +35,22 @@
     { "file": "balm-fabric-26.1.2-26.1.2.14.jar", "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/UWcOVkf7/balm-fabric-26.1.2-26.1.2.14.jar", "family": "balm-fabric*.jar" },
     { "file": "shogi-fabric-26.1.2-26.1.2.8.jar", "url": "https://cdn.modrinth.com/data/bi4iCmsw/versions/JOZQqMOr/shogi-fabric-26.1.2-26.1.2.8.jar", "family": "shogi-fabric*.jar" },
     { "file": "ForgeConfigAPIPort-v26.1.5-mc26.1.x-Fabric.jar", "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/jUe0ucoE/ForgeConfigAPIPort-v26.1.5-mc26.1.x-Fabric.jar", "family": "ForgeConfigAPIPort*.jar" },
-    { "file": "travelersbackpack-fabric-26.1.2-11.2.10.jar", "url": "https://cdn.modrinth.com/data/rlloIFEV/versions/Ah1lkxJY/travelersbackpack-fabric-26.1.2-11.2.10.jar", "family": "travelersbackpack*.jar" }
+    { "file": "travelersbackpack-fabric-26.1.2-11.2.10.jar", "url": "https://cdn.modrinth.com/data/rlloIFEV/versions/Ah1lkxJY/travelersbackpack-fabric-26.1.2-11.2.10.jar", "family": "travelersbackpack*.jar" },
+    { "file": "cloth-config-26.1.154.jar", "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/GFM8zh9J/cloth-config-26.1.154.jar", "family": "cloth-config*.jar" },
+    { "file": "PlayerAnimationLibMerged-1.2.6+mc.26.1.jar", "url": "https://cdn.modrinth.com/data/ha1mEyJS/versions/GiRAXABH/PlayerAnimationLibMerged-1.2.6%2Bmc.26.1.jar", "family": "PlayerAnimationLib*.jar" },
+    { "file": "PuzzlesLib-v26.1.15-mc26.1.x-Fabric.jar", "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/UlPkm617/PuzzlesLib-v26.1.15-mc26.1.x-Fabric.jar", "family": "PuzzlesLib*.jar" },
+    { "file": "moonlight-26.1.2-4.0.7-fabric.jar", "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/6bZOh9wj/moonlight-26.1.2-4.0.7-fabric.jar", "family": "moonlight*.jar" },
+    { "file": "pneumonocore-1.3.1+26.1+A.jar", "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/7W6vppKP/pneumonocore-1.3.1%2B26.1%2BA.jar", "family": "pneumonocore*.jar" },
+    { "file": "Iceberg-26.1.2-fabric-1.4.1.1.jar", "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/7rUyNFgK/Iceberg-26.1.2-fabric-1.4.1.1.jar", "family": "Iceberg*.jar" },
+    { "file": "Prism-26.1.2-fabric-1.1.1.jar", "url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/uxupbyjR/Prism-26.1.2-fabric-1.1.1.jar", "family": "Prism*.jar" },
+    { "file": "sound-physics-remastered-fabric-1.5.1+26.1.2.jar", "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/y3vsp51g/sound-physics-remastered-fabric-1.5.1%2B26.1.2.jar", "family": "sound-physics*.jar" },
+    { "file": "carryon-fabric-26.1.2-2.10.0.jar", "url": "https://cdn.modrinth.com/data/joEfVgkn/versions/ISFd6ie5/carryon-fabric-26.1.2-2.10.0.jar", "family": "carryon*.jar" },
+    { "file": "bettercombat-fabric-3.2.2+26.1.2.jar", "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/1UMcSrDb/bettercombat-fabric-3.2.2%2B26.1.2.jar", "family": "bettercombat*.jar" },
+    { "file": "EasyAnvils-v26.1.4-mc26.1.x-Fabric.jar", "url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/nkznXCKk/EasyAnvils-v26.1.4-mc26.1.x-Fabric.jar", "family": "EasyAnvils*.jar" },
+    { "file": "dummmmmmy-26.1.2-3.0.1-fabric.jar", "url": "https://cdn.modrinth.com/data/Adega8YN/versions/1FiCsx0K/dummmmmmy-26.1.2-3.0.1-fabric.jar", "family": "dummmmmmy*.jar" },
+    { "file": "hardcorerevival-fabric-26.1.2-26.1.2.7.jar", "url": "https://cdn.modrinth.com/data/HqKoXaXz/versions/tthK9g7R/hardcorerevival-fabric-26.1.2-26.1.2.7.jar", "family": "hardcorerevival*.jar" },
+    { "file": "ItemBorders-26.1.2-fabric-1.3.1.jar", "url": "https://cdn.modrinth.com/data/b1fMg6sH/versions/92aVs1np/ItemBorders-26.1.2-fabric-1.3.1.jar", "family": "ItemBorders*.jar" },
+    { "file": "just-hammers-fabric-26.1.2.1.jar", "url": "https://cdn.modrinth.com/data/edU0NbZZ/versions/bBbvlfy6/just-hammers-fabric-26.1.2.1.jar", "family": "just-hammers*.jar" },
+    { "file": "gravestones-1.4.2+26.1+A.jar", "url": "https://cdn.modrinth.com/data/Heh3BbSv/versions/aveMt5IP/gravestones-1.4.2%2B26.1%2BA.jar", "family": "gravestones*.jar" }
   ]
 }
