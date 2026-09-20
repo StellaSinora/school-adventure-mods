@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-20g",
+  "updated": "2026-09-20h",
   "minecraft": "26.1.2",
   "message": "Tutup TLauncher. Kalau nampak Fabric Loader 0.19.2, jalankan Pasang-Mods-Sekolah.bat VERSI BARU (bukan bat lama). Pilih Fabric 26.1.2, kemudian Enter the game.",
   "remove": [
@@ -11,13 +11,15 @@
     "When*Dungeons*.jar",
     "betterdungeons*.jar",
     "moreswordsmod*.jar",
-    "doublejumpenchant*.jar"
+    "doublejumpenchant*.jar",
+    "xaero*.jar",
+    "xaerominimap*.jar",
+    "xaeroworldmap*.jar"
   ],
   "mods": [
     { "file": "fabric-api-0.155.3+26.1.2.jar", "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/3dM0X6ou/fabric-api-0.155.3%2B26.1.2.jar", "family": "fabric-api-*.jar" },
     { "file": "sodium-fabric-0.9.2+mc26.1.2.jar", "url": "https://cdn.modrinth.com/data/AANobbMI/versions/tZQ3jqnf/sodium-fabric-0.9.2%2Bmc26.1.2.jar", "family": "sodium*.jar" },
-    { "file": "xaerominimap-fabric-26.1.2-26.5.0.jar", "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/kWf58HtH/xaerominimap-fabric-26.1.2-26.5.0.jar", "family": "xaerominimap*.jar" },
-    { "file": "xaeroworldmap-fabric-26.1.2-1.46.0.jar", "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/IYPINJuw/xaeroworldmap-fabric-26.1.2-1.46.0.jar", "family": "xaeroworldmap*.jar" },
+    { "file": "journeymap-fabric-26.1.2-6.0.9.jar", "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/Bgko4riq/journeymap-fabric-26.1.2-6.0.9.jar", "family": "journeymap*.jar" },
     { "file": "modmenu-18.0.1.jar", "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/9PxiZuDD/modmenu-18.0.1.jar", "family": "modmenu-*.jar" },
     { "file": "placeholder-api-3.0.0+26.1.jar", "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/b3IPAHgB/placeholder-api-3.0.0%2B26.1.jar", "family": "placeholder-api*.jar" },
     { "file": "voicechat-fabric-2.6.22+26.1.2.jar", "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/Z8DASI8B/voicechat-fabric-2.6.22%2B26.1.2.jar", "family": "voicechat*.jar" },
