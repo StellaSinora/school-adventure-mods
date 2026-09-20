@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updated": "2026-09-20b",
+  "updated": "2026-09-20c",
   "minecraft": "26.1.2",
-  "message": "Dalam TLauncher pilih Fabric 26.1.2. Loader mestilah 0.19.5 (bukan 0.19.2). Kemudian Enter the game.",
+  "message": "Tutup TLauncher. Kalau nampak Fabric Loader 0.19.2, jalankan Pasang-Mods-Sekolah.bat VERSI BARU (bukan bat lama). Pilih Fabric 26.1.2, kemudian Enter the game.",
   "remove": [
     "YungsBetterDungeons*.jar",
     "YungsApi*.jar",
