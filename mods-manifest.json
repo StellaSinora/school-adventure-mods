@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-20h",
+  "updated": "2026-09-23",
   "minecraft": "26.1.2",
   "message": "Tutup TLauncher. Kalau nampak Fabric Loader 0.19.2, jalankan Pasang-Mods-Sekolah.bat VERSI BARU (bukan bat lama). Pilih Fabric 26.1.2, kemudian Enter the game.",
   "remove": [
@@ -59,6 +59,9 @@
     { "file": "trinkets-4.0.0+26.1.jar", "url": "https://cdn.modrinth.com/data/XaT8sLP6/versions/BcSmZVfF/trinkets-4.0.0%2B26.1.jar", "family": "trinkets-*.jar" },
     { "file": "artifacts-fabric-15.1.3.jar", "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/RAHdA2ed/artifacts-fabric-15.1.3.jar", "family": "artifacts-*.jar" },
     { "file": "architectury-fabric-20.1.15.jar", "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/mGrBpQYO/architectury-fabric-20.1.15.jar", "family": "architectury-*.jar" },
-    { "file": "RoughlyEnoughItems-26.1.819.jar", "url": "https://cdn.modrinth.com/data/nfn13YXA/versions/EAlqUmgQ/RoughlyEnoughItems-26.1.819.jar", "family": "RoughlyEnoughItems*.jar" }
+    { "file": "RoughlyEnoughItems-26.1.819.jar", "url": "https://cdn.modrinth.com/data/nfn13YXA/versions/EAlqUmgQ/RoughlyEnoughItems-26.1.819.jar", "family": "RoughlyEnoughItems*.jar" },
+    { "file": "Jade-mc26.1-Fabric-26.1.9.jar", "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/fW2xykin/Jade-mc26.1-Fabric-26.1.9.jar", "family": "Jade*.jar" },
+    { "file": "collective-26.1.2-8.32.jar", "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/iXqgYZEw/collective-26.1.2-8.32.jar", "family": "collective*.jar" },
+    { "file": "guiclock-26.1.2-4.7.jar", "url": "https://cdn.modrinth.com/data/g1yXisD2/versions/dO5DGNJX/guiclock-26.1.2-4.7.jar", "family": "guiclock*.jar" }
   ]
 }
