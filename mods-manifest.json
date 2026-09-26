@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-25",
+  "updated": "2026-09-26",
   "minecraft": "1.20.1",
   "message": "Tutup TLauncher. Pilih Fabric 1.20.1 dengan Loader 0.19.5 dan Java 17, kemudian Enter the game.",
   "remove": [
@@ -68,6 +68,8 @@
     { "file": "fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar", "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/eRRZzGMc/fabric-language-kotlin-1.14.1%2Bkotlin.2.4.20.jar", "family": "fabric-language-kotlin*.jar" },
     { "file": "fzzy_config-0.7.7+1.20.1.jar", "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/JHYH0fYB/fzzy_config-0.7.7%2B1.20.1.jar", "family": "fzzy_config*.jar" },
     { "file": "SimplyTooltips-fabric-0.1.5-1.20.1.jar", "url": "https://cdn.modrinth.com/data/6avVoBVB/versions/MAwQRftH/SimplyTooltips-fabric-0.1.5-1.20.1.jar", "family": "SimplyTooltips*.jar" },
-    { "file": "simplyswords-fabric-1.70.2-1.20.1.jar", "url": "https://cdn.modrinth.com/data/bK3Ubu9p/versions/Tq7tcDiO/simplyswords-fabric-1.70.2-1.20.1.jar", "family": "simplyswords*.jar" }
+    { "file": "simplyswords-fabric-1.70.2-1.20.1.jar", "url": "https://cdn.modrinth.com/data/bK3Ubu9p/versions/Tq7tcDiO/simplyswords-fabric-1.70.2-1.20.1.jar", "family": "simplyswords*.jar" },
+    { "file": "geckolib-fabric-1.20.1-4.8.4.jar", "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/SD2lOScS/geckolib-fabric-1.20.1-4.8.4.jar", "family": "geckolib*.jar" },
+    { "file": "BOMD-1.7.5-1.20.1.jar", "url": "https://cdn.modrinth.com/data/du3UfiLL/versions/yoCCX4Cc/BOMD-1.7.5-1.20.1.jar", "family": "BOMD*.jar" }
   ]
 }
