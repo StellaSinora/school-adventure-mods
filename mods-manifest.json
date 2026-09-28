@@ -1,11 +1,14 @@
 {
-  "version": 2,
-  "updated": "2026-09-27",
+  "version": 3,
+  "updated": "2026-09-28",
   "minecraft": "1.20.1",
   "loader": "forge",
   "forge": "47.4.23",
   "java": "17",
-  "message": "Letak download-client-mods.bat dan fail ini dalam folder instance Forge 1.20.1 (47.4.23), sebelah folder mods. Java 17. Bat akan padam semua jar dalam folder mods, kemudian muat turun semula.",
+  "message": "Salin download-client-mods.bat ke folder instance Forge 1.20.1 (47.4.23), sebelah folder mods. Java 17. Bat baca senarai dari git, muat turun mod yang ada, dan buang mod yang tiada.",
+  "remove": [
+    "journeymap"
+  ],
   "mods": [
     {
       "name": "3D Placeable Food",
@@ -152,10 +155,16 @@
       "sha1": "d08e64e66521d69e083c8525f1fc507f1c202384"
     },
     {
-      "name": "JourneyMap",
-      "file": "journeymap-forge-1.20.1-6.0.6.jar",
-      "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/gryqmTt2/journeymap-forge-1.20.1-6.0.6.jar",
-      "sha1": "a3d9009272c0e22d6057a7e5fbed1bfa17a4dea7"
+      "name": "Xaero's Minimap",
+      "file": "xaerominimap-forge-1.20.1-26.5.0.jar",
+      "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Juh6inLY/xaerominimap-forge-1.20.1-26.5.0.jar",
+      "sha1": "718a4339f6dad3a56b6e7243e62febfb643b7151"
+    },
+    {
+      "name": "Xaero's World Map",
+      "file": "xaeroworldmap-forge-1.20.1-1.46.0.jar",
+      "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/rlPmwaQX/xaeroworldmap-forge-1.20.1-1.46.0.jar",
+      "sha1": "4906476a6a0a7e64772db17b3e707fdd4bbbc0fb"
     },
     {
       "name": "Just Hammers",
