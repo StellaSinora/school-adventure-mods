@@ -1,11 +1,11 @@
 {
-  "version": 3,
+  "version": 4,
   "updated": "2026-09-28",
   "minecraft": "1.20.1",
   "loader": "forge",
   "forge": "47.4.23",
   "java": "17",
-  "message": "Salin download-client-mods.bat ke folder instance Forge 1.20.1 (47.4.23), sebelah folder mods. Java 17. Bat baca senarai dari git, muat turun mod yang ada, dan buang mod yang tiada.",
+  "message": "Jalankan download-client-mods.bat. Ia baca senarai ini dari git dan masukkan jar terus ke .minecraft\\mods. Mod yang belum ada dimuat turun. Mod yang sudah dibuang dari senarai dipadam supaya folder tidak berat.",
   "remove": [
     "journeymap"
   ],
