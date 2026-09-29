@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "updated": "2026-09-28",
+  "version": 5,
+  "updated": "2026-09-29",
   "minecraft": "1.20.1",
   "loader": "forge",
   "forge": "47.4.23",
@@ -135,6 +135,12 @@
       "file": "hardcorerevival-forge-1.20.1-20.1.19.jar",
       "url": "https://cdn.modrinth.com/data/HqKoXaXz/versions/7WqVfW0w/hardcorerevival-forge-1.20.1-20.1.19.jar",
       "sha1": "606d42466b21a4409e9c300e561101fdfc7e9baf"
+    },
+    {
+      "name": "Hide Server Mark",
+      "file": "hidemark-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/StellaSinora/school-adventure-mods/main/hidemark-1.0.0.jar",
+      "sha1": "a569cbded95ac77529c586372e7c498aba73b703"
     },
     {
       "name": "Iceberg",
