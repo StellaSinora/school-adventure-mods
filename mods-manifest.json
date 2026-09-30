@@ -1,9 +1,9 @@
 {
-  "version": 5,
-  "updated": "2026-09-29",
+  "version": 7,
+  "updated": "2026-09-30",
   "minecraft": "1.20.1",
   "loader": "forge",
-  "forge": "47.4.23",
+  "forge": "47.4.20",
   "java": "17",
   "message": "Jalankan download-client-mods.bat. Ia baca senarai ini dari git dan masukkan jar terus ke .minecraft\\mods. Mod yang belum ada dimuat turun. Mod yang sudah dibuang dari senarai dipadam supaya folder tidak berat.",
   "remove": [
@@ -33,6 +33,12 @@
       "file": "balm-forge-1.20.1-7.3.44.jar",
       "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/dDN38ae7/balm-forge-1.20.1-7.3.44.jar",
       "sha1": "dae7e647fc54609e66e4f910931be65776352b72"
+    },
+    {
+      "name": "Better Forge Chat",
+      "file": "bfcmod-1.20.1-2.0.2.jar",
+      "url": "https://cdn.modrinth.com/data/BmoKrzHq/versions/UZfIGXcU/bfcmod-1.20.1-2.0.2.jar",
+      "sha1": "bb0e78937bdd58e1af81327ad66e4865f593add8"
     },
     {
       "name": "Better Combat",
@@ -75,6 +81,12 @@
       "file": "delightlib-26.05.18-1.20-forge.jar",
       "url": "https://cdn.modrinth.com/data/rmDY6fYt/versions/1lt5savO/delightlib-26.05.18-1.20-forge.jar",
       "sha1": "76dadc17034ef4603f9ffb433dc01c5f770aa59d"
+    },
+    {
+      "name": "Deeper and Darker",
+      "file": "deeperdarker-forge-1.20.1-1.3.3.jar",
+      "url": "https://cdn.modrinth.com/data/fnAffV0n/versions/e2oirgc2/deeperdarker-forge-1.20.1-1.3.3.jar",
+      "sha1": "12f95fa85c62123140d1962702a97a3bb746bbf5"
     },
     {
       "name": "Easy Anvils",
@@ -197,6 +209,18 @@
       "sha1": "79d0404f87fa066480b18c844c1e0b1c5f5475f9"
     },
     {
+      "name": "Lithostitched",
+      "file": "lithostitched-forge-1.20.1-1.4.11.jar",
+      "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/srPoHKt8/lithostitched-forge-1.20.1-1.4.11.jar",
+      "sha1": "d1a755de84ee5d8910ff1e65e815473056e93ece"
+    },
+    {
+      "name": "LuckPerms",
+      "file": "LuckPerms-Forge-5.4.102.jar",
+      "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/AudvOzqV/LuckPerms-Forge-5.4.102.jar",
+      "sha1": "00597f94cd1f88a468202c1fa0495106f000d564"
+    },
+    {
       "name": "Macaw's Doors",
       "file": "mcw-doors-1.1.5-mc1.20.1forge.jar",
       "url": "https://cdn.modrinth.com/data/kNxa8z3e/versions/n8BlIUm3/mcw-doors-1.1.5-mc1.20.1forge.jar",
@@ -263,6 +287,12 @@
       "sha1": "42a481b7273aa19d57ea63a89fc100558d1844e4"
     },
     {
+      "name": "Mowzie's Mobs",
+      "file": "mowziesmobs-1.8.2.jar",
+      "url": "https://edge.forgecdn.net/files/7815/705/mowziesmobs-1.8.2.jar",
+      "sha1": "25ffcd175cc03650e38e60d3cb7b3e038d9d3345"
+    },
+    {
       "name": "playerAnimator",
       "file": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
       "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/xe2EVE6q/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar",
@@ -309,6 +339,12 @@
       "file": "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
       "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/x0sJ9PeR/sound-physics-remastered-forge-1.20.1-1.5.1.jar",
       "sha1": "944b4673bcab118f411d050b2cd6b693262bb664"
+    },
+    {
+      "name": "Tablist",
+      "file": "tablist-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/StellaSinora/school-adventure-mods/main/tablist-1.0.0.jar",
+      "sha1": "fd73bcd4b46607d05c80442ad305283fa04ddd7c"
     },
     {
       "name": "Terralith",
