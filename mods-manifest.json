@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "updated": "2026-09-30",
   "minecraft": "1.20.1",
   "loader": "forge",
@@ -267,6 +267,12 @@
       "file": "dummmmmmy-1.20-2.0.12-forge.jar",
       "url": "https://cdn.modrinth.com/data/Adega8YN/versions/c1HMqDvI/dummmmmmy-1.20-2.0.12-forge.jar",
       "sha1": "3b6da54436955ea2ca6e8891ef69d0f6621ab878"
+    },
+    {
+      "name": "Mod Warn",
+      "file": "modwarn-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/StellaSinora/school-adventure-mods/main/modwarn-1.0.0.jar",
+      "sha1": "c0cd00658427eb457a7dad71cb1a332e91d8c54f"
     },
     {
       "name": "ModernFix",
