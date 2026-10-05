@@ -1,6 +1,6 @@
 {
-  "version": 8,
-  "updated": "2026-09-30",
+  "version": 9,
+  "updated": "2026-10-05",
   "minecraft": "1.20.1",
   "loader": "forge",
   "forge": "47.4.20",
@@ -117,6 +117,12 @@
       "file": "ferritecore-6.0.1-forge.jar",
       "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar",
       "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba"
+    },
+    {
+      "name": "Flan",
+      "file": "flan-1.20.1-1.11.16-forge.jar",
+      "url": "https://cdn.modrinth.com/data/Si383TIH/versions/Gh42Sknw/flan-1.20.1-1.11.16-forge.jar",
+      "sha1": "be83187dd6717029930e8ca7c1109f4bcd5cf870"
     },
     {
       "name": "Fzzy Config",
@@ -297,6 +303,12 @@
       "file": "mowziesmobs-1.8.2.jar",
       "url": "https://edge.forgecdn.net/files/7815/705/mowziesmobs-1.8.2.jar",
       "sha1": "25ffcd175cc03650e38e60d3cb7b3e038d9d3345"
+    },
+    {
+      "name": "Pala's Item Clear",
+      "file": "palas-item-clear-1.20.1-forge-0.1.1.jar",
+      "url": "https://github.com/Palawizard/PalasItemClear/releases/download/v0.1.1/palas-item-clear-1.20.1-forge-0.1.1.jar",
+      "sha1": "ab97d193c0b62e0e86a5f84f702f6398297a73d1"
     },
     {
       "name": "playerAnimator",
