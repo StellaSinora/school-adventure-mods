@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "updated": "2026-10-06",
   "minecraft": "1.20.1",
   "loader": "forge",
@@ -167,6 +167,12 @@
       "sha1": "d551ff55814cfb01403b812459ee5a02b020d87b"
     },
     {
+      "name": "Immersive Paintings",
+      "file": "immersive_paintings-0.6.13+1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/6txNkua3/versions/DYpJU8lA/immersive_paintings-0.6.13%2B1.20.1-forge.jar",
+      "sha1": "3f2a668f2235a6a908fde545d140013456b5412f"
+    },
+    {
       "name": "Item Borders",
       "file": "ItemBorders-1.20.1-forge-1.2.2.jar",
       "url": "https://cdn.modrinth.com/data/b1fMg6sH/versions/JUW31p4D/ItemBorders-1.20.1-forge-1.2.2.jar",
@@ -219,6 +225,12 @@
       "file": "lithostitched-forge-1.20.1-1.4.11.jar",
       "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/srPoHKt8/lithostitched-forge-1.20.1-1.4.11.jar",
       "sha1": "d1a755de84ee5d8910ff1e65e815473056e93ece"
+    },
+    {
+      "name": "Lootr",
+      "file": "lootr-forge-1.20-0.7.35.94.jar",
+      "url": "https://cdn.modrinth.com/data/EltpO5cN/versions/mWTXC1ZX/lootr-forge-1.20-0.7.35.94.jar",
+      "sha1": "1ec77a7df8adbf3290a296bf25b8f99f37a60020"
     },
     {
       "name": "LuckPerms",
@@ -278,7 +290,7 @@
       "name": "Mod Warn",
       "file": "modwarn-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/StellaSinora/school-adventure-mods/main/modwarn-1.0.0.jar",
-      "sha1": "9d2325f67f5ee74e70105bd8797abf925ee7b3e1"
+      "sha1": "5a5d375cd38e08464c225e5f8ec52d202c4ca77b"
     },
     {
       "name": "ModernFix",
