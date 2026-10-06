@@ -1,6 +1,6 @@
 {
-  "version": 9,
-  "updated": "2026-10-05",
+  "version": 10,
+  "updated": "2026-10-06",
   "minecraft": "1.20.1",
   "loader": "forge",
   "forge": "47.4.20",
@@ -278,7 +278,7 @@
       "name": "Mod Warn",
       "file": "modwarn-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/StellaSinora/school-adventure-mods/main/modwarn-1.0.0.jar",
-      "sha1": "c0cd00658427eb457a7dad71cb1a332e91d8c54f"
+      "sha1": "9d2325f67f5ee74e70105bd8797abf925ee7b3e1"
     },
     {
       "name": "ModernFix",
