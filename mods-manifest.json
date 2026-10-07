@@ -1,5 +1,5 @@
 {
-    "version":  13,
+    "version":  14,
     "updated":  "2026-10-07",
     "minecraft":  "1.20.1",
     "loader":  "forge",
@@ -93,12 +93,6 @@
                      "file":  "embeddium-0.3.31+mc1.20.1.jar",
                      "url":  "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar",
                      "sha1":  "bb2fa8f3e493af16af9160d049f96c614a1faf2f"
-                 },
-                 {
-                     "name":  "ExpandAbility",
-                     "file":  "expandability-9.0.4.jar",
-                     "url":  "https://edge.forgecdn.net/files/5301/414/expandability-9.0.4.jar",
-                     "sha1":  "2ea3c2ec654e11a5548f33d0d733aa6ecd9a0d6d"
                  },
                  {
                      "name":  "Farmer\u0027s Delight",
@@ -261,12 +255,6 @@
                      "file":  "dummmmmmy-1.20-2.0.12-forge.jar",
                      "url":  "https://cdn.modrinth.com/data/Adega8YN/versions/c1HMqDvI/dummmmmmy-1.20-2.0.12-forge.jar",
                      "sha1":  "3b6da54436955ea2ca6e8891ef69d0f6621ab878"
-                 },
-                 {
-                     "name":  "Missing Mods Warning",
-                     "file":  "MissingModsWarning-forge-1.20.1-0.jar",
-                     "url":  "https://edge.forgecdn.net/files/5328/846/MissingModsWarning-forge-1.20.1-0.jar",
-                     "sha1":  "ce5ee82f7d74c4120f0636bc7268cadc6081271f"
                  },
                  {
                      "name":  "ModernFix",
