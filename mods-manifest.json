@@ -1,11 +1,11 @@
 {
-    "version":  12,
-    "updated":  "2026-10-06",
+    "version":  13,
+    "updated":  "2026-10-07",
     "minecraft":  "1.20.1",
     "loader":  "forge",
-    "forge":  "47.4.20",
+    "forge":  "47.4.26",
     "java":  "17",
-    "message":  "Jalankan download-client-mods.bat. Ia baca senarai ini dari git dan masukkan jar terus ke .minecraft\\mods. Mod yang belum ada dimuat turun. Mod yang sudah dibuang dari senarai dipadam supaya folder tidak berat.",
+    "message":  "Jalankan download-client-mods.bat. Kali pertama ia buang semua mod dalam .minecraft\\mods, kemudian pasang senarai ini. Selepas itu, mod baru sahaja dipasang. Mod yang dibuang dari senarai tetap dipadam.",
     "remove":  [
                    "journeymap"
                ],
@@ -261,6 +261,12 @@
                      "file":  "dummmmmmy-1.20-2.0.12-forge.jar",
                      "url":  "https://cdn.modrinth.com/data/Adega8YN/versions/c1HMqDvI/dummmmmmy-1.20-2.0.12-forge.jar",
                      "sha1":  "3b6da54436955ea2ca6e8891ef69d0f6621ab878"
+                 },
+                 {
+                     "name":  "Missing Mods Warning",
+                     "file":  "MissingModsWarning-forge-1.20.1-0.jar",
+                     "url":  "https://edge.forgecdn.net/files/5328/846/MissingModsWarning-forge-1.20.1-0.jar",
+                     "sha1":  "ce5ee82f7d74c4120f0636bc7268cadc6081271f"
                  },
                  {
                      "name":  "ModernFix",
