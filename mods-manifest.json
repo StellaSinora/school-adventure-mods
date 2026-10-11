@@ -1,6 +1,6 @@
 {
-    "version":  14,
-    "updated":  "2026-10-07",
+    "version":  15,
+    "updated":  "2026-10-11",
     "minecraft":  "1.20.1",
     "loader":  "forge",
     "forge":  "47.4.26",
@@ -65,6 +65,12 @@
                      "sha1":  "b1ea99ec3dd4ef5f5b688dbe378060e7b97a544a"
                  },
                  {
+                     "name":  "Connected Glass",
+                     "file":  "connectedglass-1.1.14-forge-mc1.20.1.jar",
+                     "url":  "https://cdn.modrinth.com/data/DghO0R02/versions/5rewtxLD/connectedglass-1.1.14-forge-mc1.20.1.jar",
+                     "sha1":  "2f65edcf4faed33979d5dec81597b472abf17325"
+                 },
+                 {
                      "name":  "Curios API",
                      "file":  "curios-forge-5.14.1+1.20.1.jar",
                      "url":  "https://cdn.modrinth.com/data/vvuO3ImH/versions/IPQlZkz1/curios-forge-5.14.1%2B1.20.1.jar",
@@ -105,6 +111,12 @@
                      "file":  "ferritecore-6.0.1-forge.jar",
                      "url":  "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar",
                      "sha1":  "417fb6ce8f52abf40bd9d0390371790f9576f8ba"
+                 },
+                 {
+                     "name":  "Fusion",
+                     "file":  "fusion-1.3.16-forge-mc1.20.1.jar",
+                     "url":  "https://cdn.modrinth.com/data/p19vrgc2/versions/w0vXLzFW/fusion-1.3.16-forge-mc1.20.1.jar",
+                     "sha1":  "bdaea06e0900a21d01b47389f256c99875f5824e"
                  },
                  {
                      "name":  "Fzzy Config",
@@ -327,6 +339,12 @@
                      "file":  "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
                      "url":  "https://cdn.modrinth.com/data/qyVF9oeo/versions/x0sJ9PeR/sound-physics-remastered-forge-1.20.1-1.5.1.jar",
                      "sha1":  "944b4673bcab118f411d050b2cd6b693262bb664"
+                 },
+                 {
+                     "name":  "SuperMartijn642's Core Lib",
+                     "file":  "supermartijn642corelib-1.1.25-forge-mc1.20.1.jar",
+                     "url":  "https://cdn.modrinth.com/data/rOUBggPv/versions/F4zhN7VF/supermartijn642corelib-1.1.25-forge-mc1.20.1.jar",
+                     "sha1":  "9f1fbfc7ab1a60529a570b8d7e49092502761cea"
                  },
                  {
                      "name":  "Terralith",
