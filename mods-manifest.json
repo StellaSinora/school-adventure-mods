@@ -1,13 +1,27 @@
 {
-    "version":  16,
-    "updated":  "2026-10-27",
+    "version":  18,
+    "updated":  "2026-10-31",
     "minecraft":  "1.20.1",
     "loader":  "forge",
     "forge":  "47.4.26",
     "java":  "17",
-    "message":  "Jalankan download-client-mods.bat. Kali pertama ia buang semua mod dalam .minecraft\\mods, kemudian pasang senarai ini. Selepas itu, mod baru sahaja dipasang. Mod yang dibuang dari senarai tetap dipadam.",
+    "message":  "Jalankan download-client-mods.bat. Kali pertama ia buang semua mod dalam .minecraft\\mods, kemudian pasang senarai ini. Selepas itu, mod baru sahaja dipasang. Mod yang dibuang dari senarai tetap dipadam. Selepas senarai utama, skrip bertanya sama ada mahu pasang addon shader. Y memasang Embeddium dan Oculus sekali. T tidak memasang, dan membuang jar itu jika ada.",
     "remove":  [
                    "journeymap"
+               ],
+    "addons":  [
+                   {
+                       "name":  "Embeddium",
+                       "file":  "embeddium-0.3.31+mc1.20.1.jar",
+                       "url":  "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar",
+                       "sha1":  "bb2fa8f3e493af16af9160d049f96c614a1faf2f"
+                   },
+                   {
+                       "name":  "Oculus",
+                       "file":  "oculus-mc1.20.1-1.8.0.jar",
+                       "url":  "https://cdn.modrinth.com/data/GchcoXML/versions/iQ1SwGc3/oculus-mc1.20.1-1.8.0.jar",
+                       "sha1":  "984f774e71790deaec674c7587bd24e0711871b2"
+                   }
                ],
     "mods":  [
                  {
@@ -93,12 +107,6 @@
                      "file":  "EasyAnvils-v8.0.2-1.20.1-Forge.jar",
                      "url":  "https://cdn.modrinth.com/data/OZBR5JT5/versions/4pRdDqEb/EasyAnvils-v8.0.2-1.20.1-Forge.jar",
                      "sha1":  "d44a8b549b27713a92d59148729bf374ff3e25f0"
-                 },
-                 {
-                     "name":  "Embeddium",
-                     "file":  "embeddium-0.3.31+mc1.20.1.jar",
-                     "url":  "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar",
-                     "sha1":  "bb2fa8f3e493af16af9160d049f96c614a1faf2f"
                  },
                  {
                      "name":  "Farmer\u0027s Delight",
@@ -357,6 +365,12 @@
                      "file":  "Terralith_1.20.x_v2.5.4.jar",
                      "url":  "https://cdn.modrinth.com/data/8oi3bsk5/versions/WeYhEb5d/Terralith_1.20.x_v2.5.4.jar",
                      "sha1":  "79e1409b8db4ce86df9d6d6730f09c4bd8860a30"
+                 },
+                 {
+                     "name":  "TPA",
+                     "file":  "TPA-forge-1.20.1-2.1.1.jar",
+                     "url":  "https://edge.forgecdn.net/files/8974/913/TPA-forge-1.20.1-2.1.1.jar",
+                     "sha1":  "557caafa8e46ecabb44fef1deb728b2fc0d4bb4d"
                  },
                  {
                      "name":  "Traveler\u0027s Backpack",
